@@ -18,11 +18,14 @@ Here’s how this repository is organized:
 ```data-analyst/
 ├── sql/
 │ ├── 01-select-basics.sql
+| ├── ... (more SQL exercises by topic)
 │
 ├── results/
 │ ├── 01-select-basics/
+| ├── ... (output folders for each topic)
 │
 ├── notes/
+| ├── ... (SQL notes, learning log, cheat sheets)
 │
 ├── datasets/
 │ ├── employee_information.csv
