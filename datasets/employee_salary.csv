@@ -1,0 +1,16 @@
+employee_id,occupation,salary,dept_id
+1,"Operations Manager",68000,1
+2,"Marketing Analyst",55000,2
+3,"IT Specialist",72000,3
+4,"HR Coordinator",51000,4
+5,"Project Manager",75000,1
+6,"Sales Representative",49000,2
+7,"Data Analyst",67000,3
+8,"Customer Service Rep",42000,4
+9,"Financial Advisor",80000,1
+10,"Graphic Designer",53000,2
+11,"Software Engineer",85000,3
+12,"Administrative Assistant",46000,4
+13,"Quality Assurance",60000,1
+14,"Social Media Manager",54000,2
+15,"Network Engineer",78000,3
