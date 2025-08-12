@@ -69,3 +69,6 @@ Practice datasets (public or self-created) that I use for writing queries and do
 ## 🔗 Connect with Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/grecia-bueno-57a07512a/)
+
+## Credits
+- 🎗️ [Alex The Data Analyst](https://www.youtube.com/watch?v=wQQR60KtnFY&t=9845s)
