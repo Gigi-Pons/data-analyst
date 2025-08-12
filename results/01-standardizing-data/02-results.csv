@@ -1,0 +1,103 @@
+company,location,industry,total_laid_off,percentage_laid_off,date,stage,country,funds_raised_millions,row_num
+2TM,"Sao Paulo",Crypto,90,0.12,6/1/2022,Unknown,Brazil,250,1
+2TM,"Sao Paulo",Crypto,100,0.15,9/1/2022,Unknown,Brazil,250,1
+Abra,"SF Bay Area",Crypto,12,0.05,6/30/2022,"Series C","United States",106,1
+"Amber Group","Hong Kong",Crypto,NULL,0.1,9/9/2022,"Series B","Hong Kong",328,1
+Autograph,"Los Angeles",Crypto,NULL,NULL,12/16/2022,"Series B","United States",205,1
+Bakkt,Atlanta,Crypto,NULL,0.15,12/8/2022,Post-IPO,"United States",932,1
+Banxa,Melbourne,Crypto,70,0.3,6/27/2022,Post-IPO,Australia,13,1
+Bitfarms,Quebec,Crypto,NULL,NULL,4/6/2020,Post-IPO,Canada,25,1
+Bitfront,"SF Bay Area",Crypto,NULL,1,11/29/2022,Unknown,"United States",NULL,1
+BitGo,"SF Bay Area",Crypto,NULL,0.12,4/17/2020,"Series B","United States",69,1
+BitMEX,Non-U.S.,Crypto,NULL,0.3,11/2/2022,Seed,Seychelles,0,1
+BitMEX,Non-U.S.,Crypto,75,0.25,4/4/2022,Seed,Seychelles,0,1
+BitOasis,Dubai,Crypto,9,0.05,6/19/2022,"Series B","United Arab Emirates",30,1
+Bitpanda,Vienna,Crypto,270,0.27,6/24/2022,"Series C",Austria,546,1
+Bitso,"Mexico City",Crypto,80,0.11,5/26/2022,"Series C",Mexico,378,1
+Bitso,"Mexico City",Crypto,100,NULL,11/29/2022,"Series C",Mexico,378,1
+Bittrex,Seattle,Crypto,80,NULL,2/2/2023,Unknown,"United States",NULL,1
+Blockchain.com,London,Crypto,110,0.28,1/12/2023,"Series D","United Kingdom",490,1
+Blockchain.com,London,Crypto,150,0.25,7/21/2022,"Series D","United Kingdom",490,1
+BlockFi,"New York City",Crypto,NULL,1,11/28/2022,"Series E","United States",1000,1
+BlockFi,"New York City",Crypto,250,0.2,6/13/2022,"Series E","United States",1000,1
+Buenbit,"Buenos Aires",Crypto,80,0.45,5/23/2022,"Series A",Argentina,11,1
+Bullish,"Hong Kong",Crypto,30,0.08,7/5/2022,Unknown,"Hong Kong",300,1
+Bybit,Singapore,Crypto,NULL,NULL,6/20/2022,Unknown,Singapore,NULL,1
+Bybit,Singapore,Crypto,NULL,0.3,12/3/2022,Unknown,Singapore,NULL,1
+Bybit,Singapore,Crypto,600,0.3,6/20/2022,Unknown,Singapore,NULL,1
+"Candy Digital","New York City",Crypto,33,0.33,11/28/2022,"Series A","United States",100,1
+Celsius,"New York City",Crypto,150,0.25,7/3/2022,"Series B","United States",864,1
+Chainalysis,"New York City",Crypto,44,0.05,2/1/2023,"Series F","United States",536,1
+CipherTrace,"SF Bay Area",Crypto,NULL,NULL,4/9/2020,Unknown,"United States",18,1
+Coinbase,"SF Bay Area",Crypto,60,NULL,11/10/2022,Post-IPO,"United States",549,1
+Coinbase,"SF Bay Area",Crypto,950,0.2,1/10/2023,Post-IPO,"United States",549,1
+Coinbase,"SF Bay Area",Crypto,1100,0.18,6/14/2022,Post-IPO,"United States",549,1
+CoinDCX,Mumbai,Crypto,80,NULL,1/11/2023,"Series D",India,244,1
+CoinFLEX,Victoria,Crypto,NULL,NULL,7/29/2022,Unknown,Seychelles,11,1
+CoinJar,Melbourne,Crypto,10,0.2,11/29/2022,Unknown,Australia,1,1
+Coinsquare,Toronto,Crypto,30,0.24,7/27/2022,Unknown,Canada,98,1
+CoinTracker,"SF Bay Area",Crypto,19,NULL,1/28/2023,"Series A","United States",101,1
+ConsenSys,"New York City",Crypto,91,0.14,4/20/2020,Unknown,"United States",10,1
+ConsenSys,"New York City",Crypto,100,0.11,1/10/2023,"Series D","United States",726,1
+"Core Scientific",Austin,Crypto,NULL,0.1,8/12/2022,Post-IPO,"United States",169,1
+Crypto.com,Singapore,Crypto,NULL,NULL,8/16/2022,Unknown,Singapore,156,1
+Crypto.com,Singapore,Crypto,NULL,0.2,1/12/2023,Unknown,"United States",NULL,1
+Crypto.com,Singapore,Crypto,260,0.05,6/10/2022,Unknown,Singapore,156,1
+Crypto.com,Singapore,Crypto,2000,0.3,10/6/2022,Unknown,Singapore,156,1
+"Dapper Labs",Vancouver,Crypto,NULL,0.2,2/23/2023,"Series D","United States",607,1
+"Dapper Labs",Vancouver,Crypto,134,0.22,11/2/2022,"Series D","United States",607,1
+"Digital Currency Gruop",Stamford,Crypto,10,0.13,11/2/2022,Unknown,"United States",NULL,1
+"Digital Surge",Brisbane,Crypto,NULL,1,12/9/2022,Unknown,Australia,NULL,1
+Elliptic,London,Crypto,NULL,0.3,4/9/2020,"Series B","United Kingdom",40,1
+Exodus,"Nebraska City",Crypto,59,0.22,11/4/2022,Unknown,"United States",60,1
+Fireblocks,"New York City",Crypto,30,0.05,2/20/2023,"Series E","United States",1000,1
+Fungible,"SF Bay Area",Crypto,NULL,NULL,8/29/2022,"Series C","United States",310,1
+Gemini,"New York City",Crypto,NULL,0.1,1/23/2023,Unknown,"United States",423,1
+Gemini,"New York City",Crypto,100,0.1,6/2/2022,Unknown,"United States",423,1
+Gemini,"New York City",CryptoCurrency,68,0.07,7/18/2022,Unknown,"United States",423,1
+Genesis,"New York City",Crypto,52,0.2,8/17/2022,"Series A","United States",NULL,1
+Genesis,"New York City",Crypto,60,0.3,1/5/2023,"Series A","United States",NULL,1
+GSR,"Hong Kong","Crypto Currency",NULL,NULL,10/11/2022,Unknown,"Hong Kong",NULL,1
+Hodlnaut,Singapore,Crypto,40,0.8,8/19/2022,Unknown,Singapore,NULL,1
+Huobi,Beijing,Crypto,275,0.2,1/6/2023,Unknown,China,2,1
+Huobi,Beijing,Crypto,300,0.3,6/28/2022,Unknown,China,2,1
+Ignite,"SF Bay Area",Crypto,NULL,0.5,7/11/2022,"Series A","United States",9,1
+Immutable,Sydney,Crypto,NULL,0.11,2/22/2023,"Series C",Australia,279,1
+Immutable,Sydney,Crypto,20,0.06,7/26/2022,"Series C",Australia,279,1
+Koinly,London,Crypto,16,0.14,12/6/2022,Unknown,"United Kingdom",NULL,1
+Kraken,"SF Bay Area",Crypto,1100,0.3,11/30/2022,Unknown,"United States",134,1
+Lazerpay,Lagos,Crypto,NULL,NULL,11/29/2022,Unknown,Nigeria,NULL,1
+Ledn,Toronto,Crypto,NULL,NULL,11/28/2022,"Series B",Canada,103,1
+Lemon,"Buenos Aires",Crypto,100,0.38,11/24/2022,"Series A",Argentina,17,1
+Luno,London,Crypto,330,0.35,1/25/2023,Acquired,"United Kingdom",13,1
+"Magic Eden","SF Bay Area",Crypto,22,NULL,2/13/2023,"Series B","United States",170,1
+Matrixport,Singapore,Crypto,29,0.1,1/27/2023,"Series C",Singapore,100,1
+Messari,"New York City",Crypto,NULL,0.15,2/23/2023,"Series B","United States",61,1
+Metaplex,Chicago,Crypto,NULL,NULL,11/18/2022,Unknown,"United States",NULL,1
+"Mythical Games","Los Angeles",Crypto,NULL,0.1,11/4/2022,"Series C","United States",260,1
+Nestcoin,Lagos,Crypto,30,NULL,11/14/2022,Seed,Nigeria,6,1
+Nuri,Berlin,Crypto,NULL,1,10/17/2022,"Series B",Germany,42,1
+NYDIG,"New York City",Crypto,110,0.33,9/22/2022,"Private Equity","United States",1400,1
+Ocavu,Lehi,Crypto,20,0.48,11/10/2022,"Series A","United States",11,1
+"Octopus Network","Beau Vallon",Crypto,NULL,0.4,12/27/2022,"Series A",Seychelles,8,1
+OpenSea,"New York City",Crypto,NULL,0.2,7/14/2022,"Series C","United States",427,1
+Polygon,Bengaluru,Crypto,100,0.2,2/21/2023,Unknown,India,451,1
+"Prime Trust","Las Vegas",Crypto,NULL,0.33,1/30/2023,"Series B","United States",176,1
+"Protego Trust Bank",Seattle,Crypto,NULL,0.5,3/1/2023,"Series A","United States",70,1
+"Protocol Labs","SF Bay Area",Crypto,89,0.2,2/3/2023,Unknown,"United States",10,1
+Purse,"SF Bay Area",Crypto,NULL,1,4/16/2020,Seed,"United States",1,1
+Quidax,Lagos,Crypto,20,0.2,11/24/2022,Unknown,Nigeria,3,1
+"Recur Forever",Miami,Crypto,235,NULL,12/7/2022,"Series A","United States",55,1
+Reserve,"SF Bay Area",Crypto,NULL,NULL,2/17/2023,Unknown,"United States",NULL,1
+Shakepay,Montreal,Crypto,21,0.25,1/27/2023,"Series A",Canada,45,1
+SuperRare,Wilmington,Crypto,NULL,0.3,1/6/2023,"Series A","United States",9,1
+Swyftx,Brisbane,Crypto,74,0.21,8/17/2022,Unknown,Australia,NULL,1
+Swyftx,Brisbane,Crypto,90,0.4,12/5/2022,Unknown,Australia,NULL,1
+TaxBit,"Salt Lake City",Crypto,NULL,NULL,12/13/2022,"Series B","United States",235,1
+TIFIN,Boulder,Crypto,24,0.1,6/14/2022,"Series D","United States",204,1
+"Unchained Capital",Austin,Crypto,NULL,0.15,11/18/2022,"Series A","United States",33,1
+"Unstoppable Domains","SF Bay Area","Crypto Currency",42,0.25,7/14/2022,"Series B","United States",7,1
+WazirX,Mumbai,Crypto,60,0.4,10/2/2022,Acquired,India,NULL,1
+WeTrade,Bengaluru,Crypto,NULL,1,2/9/2023,Unknown,India,NULL,1
+Wyre,"SF Bay Area",Crypto,NULL,1,1/4/2023,Unknown,"United States",29,1
+ZenLedger,Seattle,Crypto,NULL,0.1,12/9/2022,"Series B","United States",25,1

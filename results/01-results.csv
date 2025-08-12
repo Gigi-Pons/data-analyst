@@ -1,0 +1,5 @@
+company,location,industry,total_laid_off,percentage_laid_off,date,stage,country,funds_raised_millions,row_num
+Airbnb,"SF Bay Area",,30,NULL,2023-03-03,Post-IPO,"United States",6400,1
+"Bally's Interactive",Providence,NULL,NULL,0.15,2023-01-18,Post-IPO,"United States",946,1
+Carvana,Phoenix,,2500,0.12,2022-05-10,Post-IPO,"United States",1600,1
+Juul,"SF Bay Area",,400,0.3,2022-11-10,Unknown,"United States",1500,1
