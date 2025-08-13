@@ -41,14 +41,26 @@ Here’s how this repository is organized:
 ### 📚 `sql/`
 SQL queries organized by topic — including:
 - Basic SELECTs
+- Queries for data cleaning and data exploration
 
-Each `.sql` file contains comments and examples to help reinforce learning.
+Each `.sql` file in the repository contains multiple numbered queries, each with a descriptive comment explaining its purpose.
+
+```
+/sql
+    employees.sql
+/results
+    /employees
+        01-results.csv
+        02-results.csv
+        03-results.csv
+```
 
 ---
 
 ### 📊 `results/`
 Contains:
-- Query outputs in `.txt` or `.csv` form
+- The results/ directory contains a subfolder named exactly after the SQL file
+- Inside that subfolder, each CSV file is prefixed with the query number (01-, 02-, etc.) to match the numbered queries in the SQL file.
 - Screenshots of query results (if using a visual tool like MySQL Workbench or DBeaver)
 - Real-world output samples to visualize how queries perform
 
