@@ -20,7 +20,7 @@ Here’s how this repository is organized:
 │ ├── 01-select-basics.sql
 | ├── ... (more SQL exercises by topic)
 │
-├── results/
+├── sql_results/
 │ ├── 01-select-basics/
 | ├── ... (output folders for each topic)
 │
