@@ -73,6 +73,15 @@ This is where I reflect on what I’m learning. Includes:
 
 ---
 
+### 🗒️ `pivot_tables/`
+This is where the pivot tables exist.  Includes:
+- An extension for .xlsx
+- Since the excel sheet isn't visible correctly, I have also includes a csv file
+- For visual purposes, I have included a png file
+- For additional context, I have included a notes section where I explain the results of each table
+
+---
+
 ### 📁 `datasets/`
 Practice datasets (public or self-created) that I use for writing queries and doing exploratory analysis.
 > *Note: No private or sensitive data will ever be shared here.*
