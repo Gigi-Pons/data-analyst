@@ -1,0 +1,100 @@
+Top 50 Excel Formulas
+VLOOKUP: Searches for a value in the leftmost column of a table and returns a corresponding value from a specified column. Example: =VLOOKUP(A2, B2:C10, 2, FALSE)
+
+SUM: Adds up a range of cells. Example: =SUM(A1:A10)
+
+IF: Performs a conditional test and returns different values based on the result. Example: =IF(A1>10, "High", "Low")
+
+COUNT: Counts the number of cells in a range that contains numbers. Example: =COUNT(A1:A10)
+
+AVERAGE: Calculates the average of a range of cells. Example: =AVERAGE(A1:A10)
+
+SUMIF: Adds up the cells that meet a specific condition. Example: =SUMIF(A1:A10, ">50")
+
+INDEX: Returns the value of a cell in a specified row and column. Example: =INDEX(A1:C10, 5, 2)
+
+MATCH: Finds the position of a value in a range. Example: =MATCH(A1, B1:B10, 0)
+
+CONCATENATE: Joins two or more text strings together. Example: =CONCATENATE(A1, " ", B1)
+
+COUNTIF: Counts the number of cells that meet a specific condition. Example: =COUNTIF(A1:A10, ">50")
+
+IFERROR: Checks if a formula produces an error and returns a specified value if true. Example: =IFERROR(A1/B1, "Error")
+
+LEFT: Extracts a specified number of characters from the beginning of a text string. Example: =LEFT(A1, 3)
+
+RIGHT: Extracts a specified number of characters from the end of a text string. Example: =RIGHT(A1, 2)
+
+MID: Extracts a specified number of characters from a text string, starting at a specified position. Example: =MID(A1, 2, 4)
+
+LEN: Returns the number of characters in a text string. Example: =LEN(A1)
+
+DATE: Returns the serial number of a specific date. Example: =DATE(2022, 3, 15)
+
+NOW: Returns the current date and time. Example: =NOW()
+
+INDIRECT: Converts a text string into a valid cell reference. Example: =INDIRECT("A1")
+
+TRIM: Removes leading and trailing spaces from a text string. Example: =TRIM(A1)
+
+SUBSTITUTE: Replaces specific text in a text string with new text. Example: =SUBSTITUTE(A1, "apple", "orange")
+
+RANK: Returns the rank of a number in a list of numbers. Example: =RANK(A1, A1:A10)
+
+MAX: Finds the maximum value in a range of cells. Example: =MAX(A1:A10)
+
+MIN: Finds the minimum value in a range of cells. Example: =MIN(A1:A10)
+
+ROUND: Rounds a number to a specified number of decimal places. Example: =ROUND(A1, 2)
+
+NETWORKDAYS: Calculates the number of working days
+
+TEXT: Converts a value to text in a specific format. Example: =TEXT(A1, "yyyy-mm-dd")
+
+RAND: Returns a random number between 0 and 1. Example: =RAND()
+
+IFNA: Checks if a formula returns the #N/A error and returns a specified value if true. Example: =IFNA(VLOOKUP(A1, B1:C10, 2, FALSE), "Not Found")
+
+HLOOKUP: Searches for a value in the top row of a table and returns a corresponding value from a specified row. Example: =HLOOKUP(A1, A1:D10, 3, FALSE)
+
+CONCAT: Joins two or more text strings together. Example: =CONCAT(A1, " ", B1, " ", C1)
+
+TODAY: Returns the current date. Example: =TODAY()
+
+OR: Checks multiple conditions and returns true if any of them are true. Example: =OR(A1>10, B1="Yes")
+
+AND: Checks multiple conditions and returns true if all of them are true. Example: =AND(A1>10, B1="Yes")
+
+DATEVALUE: Converts a date in the text format to a serial number. Example: =DATEVALUE("2022-03-15")
+
+ROUNDUP: Rounds a number up to a specified number of decimal places. Example: =ROUNDUP(A1, 0)
+
+ROUNDDOWN: Rounds a number down to a specified number of decimal places. Example: =ROUNDDOWN(A1, 0)
+
+ISNUMBER: Checks if a value is a number and returns true or false. Example: =ISNUMBER(A1)
+
+IFBLANK: Checks if a cell is blank and returns a specified value if true. Example: =IFBLANK(A1, "Empty")
+
+PROPER: Converts the first letter of each word in a text string to uppercase. Example: =PROPER(A1)
+
+MEDIAN: Calculates the median of a range of numbers. Example: =MEDIAN(A1:A10)
+
+MODE: Returns the most frequently occurring value in a range of numbers. Example: =MODE(A1:A10)
+
+DAY: Extracts the day value from a date. Example: =DAY(A1)
+
+MONTH: Extracts the month value from a date. Example: =MONTH(A1)
+
+YEAR: Extracts the year value from a date. Example: =YEAR(A1)
+
+TRANSPOSE: Transposes the rows and columns of a range. Example: Enter the formula, then select a range and press Ctrl + Shift + Enter.
+
+PMT: Calculates the payment amount for a loan based on constant payments and a constant interest rate. Example: =PMT(0.05/12, 60, 10000)
+
+PRODUCT: Multiplies the values in a range of cells. Example: =PRODUCT(A1:A10)
+
+STDEV: Estimates the standard deviation based on a sample from a population. Example: =STDEV(A1:A10)
+
+LEFTB: Extracts a specified number of bytes from the beginning of a text string. Example: =LEFTB(A1, 3)
+
+FIND: Finds the position of a specific character or text within a text string. Example: =FIND("a", A1)
