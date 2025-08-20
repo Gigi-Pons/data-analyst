@@ -73,12 +73,13 @@ This is where I reflect on what I’m learning. Includes:
 
 ---
 
-### 🗒️ `pivot_tables/`
-This is where the pivot tables exist.  Includes:
+### 🗒️ `excel/`
+This is where the excel exercises exist.  Includes:
 - An extension for .xlsx
 - Since the excel sheet isn't visible correctly, I have also includes a csv file
 - For visual purposes, I have included a png file
-- For additional context, I have included a notes section where I explain the results of each table
+- For additional context, I have included a notes section where I explain the results of each table.
+- I have included PNG images with notes in the exercise for better visualization purposes.
 
 ---
 
