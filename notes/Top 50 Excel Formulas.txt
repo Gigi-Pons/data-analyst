@@ -98,3 +98,5 @@ STDEV: Estimates the standard deviation based on a sample from a population. Exa
 LEFTB: Extracts a specified number of bytes from the beginning of a text string. Example: =LEFTB(A1, 3)
 
 FIND: Finds the position of a specific character or text within a text string. Example: =FIND("a", A1)
+
+Credit to Coursera: https://www.coursera.org/collections/excel-cheat-sheet
