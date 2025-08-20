@@ -16,6 +16,18 @@ This repository is a living log of my progress. I’ll be using this space to:
 Here’s how this repository is organized:
 
 ```data-analyst/
+├── datasets/
+│ ├── employee_information.csv
+| ├── employee_salary.csv
+| ├── departments.csv
+|
+├── excel/
+│ ├── xlookup
+| ├── pivot_tables
+|
+├── notes/
+| ├── ... (SQL notes, learning log, cheat sheets)
+|
 ├── sql/
 │ ├── 01-select-basics.sql
 | ├── ... (more SQL exercises by topic)
@@ -24,13 +36,6 @@ Here’s how this repository is organized:
 │ ├── 01-select-basics/
 | ├── ... (output folders for each topic)
 │
-├── notes/
-| ├── ... (SQL notes, learning log, cheat sheets)
-│
-├── datasets/
-│ ├── employee_information.csv
-| ├── employee_salary.csv
-| ├── departments.csv
 │
 └── README.md
 ```
